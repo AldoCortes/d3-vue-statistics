@@ -1,0 +1,49 @@
+{
+    "tiles": [
+        {
+            "title": "Revenue",
+            "amounts": [
+                {
+                    "name": "Tablet",
+                    "quantity": "120000"
+                },
+                {
+                    "name": "Smartphone",
+                    "quantity": "80000"
+                }
+            ],
+            "amountType": "money",
+            "color": "green"
+        },
+        {
+            "title": "Impressions",
+            "amounts": [
+                {
+                    "name": "Tablet",
+                    "quantity": "20000000"
+                },
+                {
+                    "name": "Smartphone",
+                    "quantity": "30000000"
+                }
+            ],
+            "amountType": "number",
+            "color": "blue"
+        },
+        {
+            "title": "Visits",
+            "amounts": [
+                {
+                    "name": "Tablet",
+                    "quantity": "480000000"
+                },
+                {
+                    "name": "Smartphone",
+                    "quantity": "120000000"
+                }
+            ],
+            "amountType": "number",
+            "color": "red"
+        }
+    ]
+}
